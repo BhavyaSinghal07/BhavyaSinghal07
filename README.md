@@ -4,6 +4,7 @@
 💻 Passionate about **AI**, **Machine Learning**, and **Web Development**  
 🚀 Turning ideas into reality with code and creativity  
 🌟 Always learning, always growing  
+🌱 Currently Learning: React
 
 ### What I Do  
 - 🌐 Building cool stuff with **Python**, **Java**, and **Web Technologies**  
